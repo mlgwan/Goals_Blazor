@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = Goals
+build_property.RootNamespace = Goals
+build_property.ProjectDir = C:\Users\g-wan\source\repos\Goals\Goals\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\g-wan\source\repos\Goals\Goals
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/g-wan/source/repos/Goals/Goals/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/g-wan/source/repos/Goals/Goals/Components/Goal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHb2FsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/g-wan/source/repos/Goals/Goals/Pages/GoalOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR29hbE92ZXJ2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/g-wan/source/repos/Goals/Goals/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/g-wan/source/repos/Goals/Goals/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/g-wan/source/repos/Goals/Goals/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/g-wan/source/repos/Goals/Goals/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-to36e42mm6
+
+[C:/Users/g-wan/source/repos/Goals/Goals/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-lufkwgy3id

@@ -1,0 +1,13 @@
+﻿<div style="background-color:@GetStatusColor();margin-top:15px">
+
+    <span style="float:center;color:white;">@GoalText</span>
+    <button class="btn-danger" style="float:right">X</button>
+    <button class="btn-warning" style="float:right">Edit</button>
+    <form style="float:right">
+      <select name="Status" id="status" onchange=@OnStatusChanged>
+        <option value="@Status.Undone">Undone</option>
+        <option value="@Status.Started">Started</option>
+        <option value="@Status.Done">Done</option>
+      </select>
+    </form>
+</div>
